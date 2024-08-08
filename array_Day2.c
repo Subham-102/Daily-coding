@@ -1,3 +1,4 @@
+//Write a C program to find the maximum element from an array
 #include<stdio.h>
 int main(){
     int arr[5];

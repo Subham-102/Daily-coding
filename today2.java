@@ -8,6 +8,7 @@ class today2{
 			int s=(4*i)-3;
 			System.out.println(s);
 		}
+		sc.close();
 	}
 }
 		

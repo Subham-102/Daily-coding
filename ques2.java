@@ -13,5 +13,6 @@ class ques2{
 		else{
 			System.out.println("Subham");
 		}
+		sc.close();
 	}
 }

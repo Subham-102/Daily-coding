@@ -16,4 +16,4 @@ class A{
 		System.out.println("Method");
 	}
 	
-}
+}    
